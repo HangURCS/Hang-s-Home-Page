@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
+title: "Hang Hua"
 subtitle: ""
 hero_media: welcome.jpg
 design:
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+I'm a first-year Ph.D. student in computer science at the University of Rochester advised by Prof. Jiebo Luo. My work lies in Natural Language Processing and Computational Linguistics, with a primary focus on the algorithmic and theoretical foundations for solving financial application scenario problems.
