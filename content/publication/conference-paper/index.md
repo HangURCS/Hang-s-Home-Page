@@ -1,9 +1,12 @@
 ---
-title: "An example conference paper"
+title: "Noise Stability Regularization for Improving BERT Fine-tuning"
 authors:
-- admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+- Hang Hua
+- Xingjian Li
+- Dejing Dou
+- Chengzhong Xu
+- Jiebo Luo
+date: "2021"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
